@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Blockchain Money Transfer</h1>
+<h1>Blockchain Money Transfer Using React</h1>
 <p>A simple blockchain-based application for simulating money transfers between users, demonstrating the basic concepts of blockchain technology, including block creation, proof-of-work, and data immutability.</p>
 <p>In this project I have used react rest similar to my last project</p>
 
